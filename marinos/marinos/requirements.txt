@@ -1,0 +1,2 @@
+'''version para fecha 24/12/2024  '''
+django==5.1.4
